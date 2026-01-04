@@ -1,10 +1,18 @@
 # PID-Line-Follower-Robot-8-ir-array
-Overview
 
 # Youtube Video Link; https://youtu.be/oNtx3up80jQ?si=pXBH429U2dCFqUBu
+
 ![20251210_064209](https://github.com/user-attachments/assets/0efb0eb2-0df7-4ab7-bfda-48aa8e7835cb)
+
+
 ![20251210_064204](https://github.com/user-attachments/assets/d18de657-d7df-4bae-82c9-fd888f6e2519)
+
+
 ![20251210_064109](https://github.com/user-attachments/assets/c669d87b-2e1f-47e0-849c-ce43dbdcd320)
+
+
+OVERVIEW 
+
 
 Phase 1 of the high-performance Speed Demon Line Follower Robot focuses on exploring advanced line-following techniques using PID control. This platform allows testing of motor control, sensor calibration, and line-following algorithms, with future iterations targeting high-speed navigation.
 
